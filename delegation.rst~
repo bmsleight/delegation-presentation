@@ -7,6 +7,9 @@ Tools used,
 http://wigflip.com/ds/
 https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.reidlitchfield.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fsuperman-1.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Frespectthreads%2Fcomments%2F3ovxvl%2Frespect_superman_complete_postcrisis%2F&docid=yVFTE8LlXyUGgM&tbnid=_4GZinGYWldMxM%3A&w=800&h=600&hl=en-gb&client=browser-ubuntu&bih=805&biw=1600&ved=0ahUKEwjErIvEn_vPAhUIBcAKHbnOB6U4ZBAzCBMoETAR&iact=mrc&uact=8
 
+rm Missile1.mp4 ; ffmpeg -i ./BBC\ Micro\ game\ Missile\ Control-VrVOwaztcTk.webm -ss 51.5 -t 10.1 Missile1.mp4 ; rm crop_missile.mp4 ; ffmpeg -i Missile1.mp4 -filter:v "crop=180:200:145:150" crop_missile.mp4 ; rm scale_Milssile.mp4 ; ffmpeg -i crop_missile.mp4 -vf scale=360:-1 scale_Milssile.mp4
+
+
 ----
 
 :data-rotate-y: 90
@@ -100,7 +103,26 @@ Still Superman ?
 ----
 
 :data-scale: 1
+:data-y: r800
+:data-x: r0
+
+
+.. image:: images/Window-Missile-Control.jpg
+
+----
+
+:data-scale: 1
+:data-y: r800
+:data-x: r0
+
+
+.. image:: images/Missile1_long.jpg
+
+----
+
+:data-y: r-2200
 :data-x: r1600
+:data-scale: 1
 
 Delegation
 ==========
@@ -267,7 +289,7 @@ Just Do it
 
 * Giving authority
 * Still responsible
-* Build trust, if not seen as lazy
+* Builds trust, if not seen as lazy
 
 .. image:: images/Just-Do-It.jpg
 
@@ -284,9 +306,47 @@ Just Do it
 
 ----
 
-:data-x: r3000
-:data-y: r-1500
-:data-scale: 15
+:data-x: r-115
+:data-y: r1080
+:data-z: r-10
+:data-scale: 1
+
+Pass the Parcel
+===============
+
+* One to One
+* At a meeting
+* Avoid the ine line email!
+
+----
+
+:data-x: r0
+:data-y: r800
+:data-z: r0
+:data-scale: 1
+
+Pass the Parcel
+===============
+
+.. image:: images/Ender_Delegate_.jpg
+
+----
+
+:data-x: r800
+:data-y: r-2400
+
+Benefits
+===============
+
+* Value
+* New Super-people
+* Able to keep look at - wider view
+
+----
+
+:data-x: 2000
+:data-y: 2000
+:data-scale: 6
 :data-rotate-z: 0
 :data-rotate-x: 0
 :data-rotate-y: 0
