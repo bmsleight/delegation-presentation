@@ -196,7 +196,15 @@ Context
 
 * Does the person know ?  
 * How, preparation ?
-* Strategy, aims - not how
+* Strategy, intent - not how
+
+.. note::
+
+    Communication, Communication, Communication.
+    What are we trying to achieve ? 
+    Need to have done the prparation before hand. 
+    You not communicating how to do it or even what but your intent or outcome.
+    e.g. To lower cost per installation, not what to cut or how to get the cut.
 
 ----
 
@@ -212,6 +220,10 @@ Live with it
 * Trust the delegated person  
 * Roll with it
 
+.. note::
+
+    If you have the _Intent_ correct; then this should not be a problem. 
+
 ----
 
 :data-x: r0
@@ -225,6 +237,10 @@ Avoid Boring
 * Not the rubbish
 * Might have to sell it
 * Communication is key
+
+.. note::
+
+    Reason for delegatign something should not be it is boring.
 
 ----
 
@@ -241,6 +257,12 @@ Mistaken Dangers
 * Too difficult
 * Not authorised
 * Not competent
+
+.. note::
+
+    Too difficult; Good -> Interesting, Development
+    You are passing your Authority (but not responsibility) to them
+    You never going to grow people if you assuem not competent
 
 ----
 
