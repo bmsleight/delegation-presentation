@@ -20,6 +20,12 @@ Delegation Masterclass
 It is not for the *Lazy!*
 ---------------------------------
 
+.. note::
+
+    Talk about my previous method of management
+    Why delegation is key
+    Why delegation is not the lazy option (opposite!)
+
 ----
 
 :data-x: r0
@@ -144,6 +150,11 @@ What to Delegate
 * Development
 * Where the context is known
 
+.. note::
+
+    _Got_ to be of interest to the person your delegating to
+    _Should develop the person 
+    _Must_ be where the context is known 
 
 ----
 
@@ -155,6 +166,13 @@ Danger
 * No context  
 * Answer you can not live with
 * No interest or boring
+
+.. note::
+
+    If people dont have the right context, they may make the 'wrong' answer
+    You delegate Authority, but keep responsibility
+    So you have to live with the decision.
+    You be accused of being lazy if it is boring
 
 ----
 
