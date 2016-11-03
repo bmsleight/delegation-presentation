@@ -9,6 +9,15 @@ https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.reidlitchfield.com%2Fwp-
 
 rm Missile1.mp4 ; ffmpeg -i ./BBC\ Micro\ game\ Missile\ Control-VrVOwaztcTk.webm -ss 51.5 -t 10.1 Missile1.mp4 ; rm crop_missile.mp4 ; ffmpeg -i Missile1.mp4 -filter:v "crop=180:200:145:150" crop_missile.mp4 ; rm scale_Milssile.mp4 ; ffmpeg -i crop_missile.mp4 -vf scale=360:-1 scale_Milssile.mp4
 
+----
+
+:data-x: 2000
+:data-y: 2000
+:data-scale: 7.5
+:data-rotate-z: 0
+:data-rotate-x: 0
+:data-rotate-y: 0
+:data-z: 0
 
 ----
 
@@ -356,7 +365,7 @@ Pass the Parcel
 
 * One to One
 * At a meeting
-* Avoid the ine line email!
+* Avoid the one line email!
 
 ----
 
@@ -369,6 +378,11 @@ Pass the Parcel
 ===============
 
 .. image:: images/Ender_Delegate_.jpg
+
+.. note::
+
+    Ender's Games - (best Book on Leadership)
+    Build confidence
 
 ----
 
