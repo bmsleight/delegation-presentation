@@ -142,7 +142,7 @@ Still Superman ?
 Delegation
 ==========
 
-* What 
+* What to delegate
 * How
 * Benefits
 
@@ -212,7 +212,7 @@ Context
     Communication, Communication, Communication.
     What are we trying to achieve ? 
     Need to have done the prparation before hand. 
-    You not communicating how to do it or even what but your intent or outcome.
+    You not communicating how to do it or even what to do but your intent.
     e.g. To lower cost per installation, not what to cut or how to get the cut.
 
 ----
