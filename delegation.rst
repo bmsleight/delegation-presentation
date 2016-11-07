@@ -11,15 +11,6 @@ rm Missile1.mp4 ; ffmpeg -i ./BBC\ Micro\ game\ Missile\ Control-VrVOwaztcTk.web
 
 ----
 
-:data-x: 2000
-:data-y: 2000
-:data-scale: 7.5
-:data-rotate-z: 0
-:data-rotate-x: 0
-:data-rotate-y: 0
-:data-z: 0
-
-----
 
 :data-rotate-y: 90
 
