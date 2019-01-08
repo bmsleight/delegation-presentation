@@ -6,13 +6,23 @@
 Tools used,
 http://wigflip.com/ds/
 https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.reidlitchfield.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fsuperman-1.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Frespectthreads%2Fcomments%2F3ovxvl%2Frespect_superman_complete_postcrisis%2F&docid=yVFTE8LlXyUGgM&tbnid=_4GZinGYWldMxM%3A&w=800&h=600&hl=en-gb&client=browser-ubuntu&bih=805&biw=1600&ved=0ahUKEwjErIvEn_vPAhUIBcAKHbnOB6U4ZBAzCBMoETAR&iact=mrc&uact=8
+https://www.blackpressusa.com/wp-content/uploads/2018/10/Black-Superwoman-1.jpg
 
 rm Missile1.mp4 ; ffmpeg -i ./BBC\ Micro\ game\ Missile\ Control-VrVOwaztcTk.webm -ss 51.5 -t 10.1 Missile1.mp4 ; rm crop_missile.mp4 ; ffmpeg -i Missile1.mp4 -filter:v "crop=180:200:145:150" crop_missile.mp4 ; rm scale_Milssile.mp4 ; ffmpeg -i crop_missile.mp4 -vf scale=360:-1 scale_Milssile.mp4
 
 ----
 
 
+:data-rotate-y: 0
+
+.. image:: images/del_start.png
+    :height: 600px
+
+----
+
+
 :data-rotate-y: 90
+:data-x: r1400
 
 Delegation Masterclass
 ======================
@@ -471,18 +481,10 @@ Benefits
 
 ----
 
-:data-x: r1600
-:data-y: r-0
+:data-rotate-y: 0
 
-Information
-===============
-
-* https://bmsleight.github.io/delegation-presentation/
-* Source code: https://raw.githubusercontent.com/bmsleight/delegation-presentation/master/delegation.rst
-
-.. note::
-
-    Code
+.. image:: images/del_end.png
+    :height: 600px
 
 
 ----
