@@ -213,16 +213,8 @@ Danger
 
 ----
 
-:data-x: 0
-:data-y: 50
-:data-z: -200
-:data-rotate-y: 90
-:data-scale: 0.2
-
-----
-
-:data-x: 2600
-:data-y: 2200
+:data-x: 2400
+:data-y: 2400
 :data-z: r0
 :data-rotate-y: 0
 :data-rotate-z: -30
