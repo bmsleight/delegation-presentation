@@ -23,7 +23,9 @@ It is not for the *Lazy!*
 .. note::
 
     Talk about my previous method of management
+
     Why delegation is key
+
     Why delegation is not the lazy option (opposite!)
 
 ----
@@ -65,6 +67,12 @@ It is not for the *Lazy!*
 
 .. image:: images/superman-1.jpg
 
+.. note::
+
+    Notice the red tie, blue suit, great jaw line ...
+    
+    Great for my ego, great for build a team ?
+
 ----
 
 :data-x: r6
@@ -93,7 +101,7 @@ Workload
 :data-scale: 0.01
 
 
-Sucession Planning
+Succession Planning
 
 ----
 
@@ -105,6 +113,12 @@ Sucession Planning
 :id: dang
 
 Still Superman ?
+
+.. note::
+
+    I am still doing a super job with all these gaps ?
+    
+    What about looking up and new threats ?
 
 ----
 
@@ -137,6 +151,12 @@ Delegation
 * How
 * Benefits
 
+.. note::
+
+    Now we know Why - lets look at the what
+    
+    Main part of this Masterclass is three areas
+
 ----
 
 :data-x: r0
@@ -152,9 +172,13 @@ What to Delegate
 
 .. note::
 
-    _Got_ to be of interest to the person your delegating to
-    _Should develop the person 
-    _Must_ be where the context is known 
+    Golden rules
+
+    Got to be of interest to the person your delegating to
+
+    Should develop the person 
+
+    Must be where the context is known 
 
 ----
 
@@ -165,14 +189,17 @@ Danger
 
 * No context  
 * Answer you can not live with
-* No interest or boring
+* Not interesting or boring
 
 .. note::
 
-    If people dont have the right context, they may make the 'wrong' answer
+    If people don’t have the right context, they may make the 'wrong' answer. Context: Reduce costs, but this may end-up minimise 'Engineering' or 'Procurement' costs as the detrement to the wider project costs.
+
     You delegate Authority, but keep responsibility
+
     So you have to live with the decision.
-    You be accused of being lazy if it is boring
+
+    You be accused of being lazy if it is boring, (person not motivated)
 
 ----
 
@@ -201,10 +228,17 @@ Context
 .. note::
 
     Communication, Communication, Communication.
-    What are we trying to achieve ? 
-    Need to have done the prparation before hand. 
-    You not communicating how to do it or even what to do but your intent.
-    e.g. To lower cost per installation, not what to cut or how to get the cut.
+
+    What are we trying to achieve ? [Our design easier to build]  Great leaders bang on about what they are trying to achieve.
+
+    Need to have done the preparation before hand. [Explain or demo how building is hard]
+
+    IMPORTANT You not communicating how to do it or even what to do but your intent. IMPORTANT
+
+    e.g. Reduce cost of installation of on site, out design easier to build
+    
+    I may think that symmetrical, reduce part count. But again, need to keep space for whole of team to think - for the best diverse range of solutions. 
+    
 
 ----
 
@@ -223,6 +257,8 @@ Live with it
 .. note::
 
     If you have the _Intent_ correct; then this should not be a problem. 
+    
+    The how may be different or novel, but who care - intent is correct
 
 ----
 
@@ -240,7 +276,8 @@ Avoid Boring
 
 .. note::
 
-    Reason for delegatign something should not be it is boring.
+    Last What: 
+    Reason for delegating something should not be it is boring.
 
 ----
 
@@ -260,9 +297,13 @@ Mistaken Dangers
 
 .. note::
 
+    Couple of thing that DO NOT Stop you, 
+
     Too difficult; Good -> Interesting, Development
-    You are passing your Authority (but not responsibility) to them
-    You never going to grow people if you assuem not competent
+
+    You resposible, so it up to you if you want to deligate. You are passing your Authority (but not responsibility) to them
+
+    You never going to grow people if you assume not competent
 
 ----
 
@@ -275,8 +316,9 @@ Mistaken Dangers
 Too difficult
 ================
 
-* Build a Superman
 * Only Superman is competent ?
+* Build another Superman
+* Avengers Assemble!
 
 .. image:: images/superman-1s.jpg
 
@@ -297,6 +339,15 @@ How
 * Do, Inform, Go
 * Just Do it
 
+.. note::
+
+    Maymoon - ignore that comment! 
+    
+    Three stages - progress over time. 
+    
+    Start with least risky, - Do, Check, Go
+
+
 ----
 
 :data-x: r0
@@ -313,6 +364,14 @@ Do, Check, Go
 * Builds confidence
 * Still authorising 
 
+.. note::
+
+    Not make it do, re-do, go
+
+    Confidence is both ways
+    
+    Clear communication
+
 ----
 
 Do, Inform, Go
@@ -321,6 +380,11 @@ Do, Inform, Go
 * Less complex
 * Giving authority
 * Still responsible
+
+.. note::
+
+    Less complex or have already build confidence
+
 
 ----
 
@@ -333,6 +397,10 @@ Just Do it
 
 .. image:: images/Just-Do-It.jpg
 
+.. note::
+
+    At the heart of Just Do it is...
+
 ----
 
 :data-x: r115
@@ -342,7 +410,7 @@ Just Do it
 :data-rotate-z: 0
 :data-scale: 0.01
 
-.. image:: images/superman-1.jpg
+.. image:: images/Superwoman.jpg
 
 ----
 
@@ -372,8 +440,15 @@ Pass the Parcel
 
 .. note::
 
-    Ender's Games - (best Book on Leadership)
-    Build confidence
+    Ender's Games - (great sci-fi book, one of the best Book on Leadership, butchered by the film)
+
+    Build confidences
+
+    Build respect
+    
+    Build diverse range of input (remember what not the how)
+    
+    All else fails, you can suggest another how "Have you considered X ?"
 
 ----
 
@@ -383,9 +458,32 @@ Pass the Parcel
 Benefits
 ===============
 
-* Value
+* Value your team or peers
 * New Super-people
 * Able to keep look at - wider view
+
+.. note::
+
+    Value - remember not LAZY
+    
+    Widerview - missle control!
+
+
+----
+
+:data-x: r1600
+:data-y: r-0
+
+Information
+===============
+
+* https://bmsleight.github.io/delegation-presentation/
+* Source code: https://raw.githubusercontent.com/bmsleight/delegation-presentation/master/delegation.rst
+
+.. note::
+
+    Code
+
 
 ----
 
