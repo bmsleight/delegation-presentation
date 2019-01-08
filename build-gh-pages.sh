@@ -3,6 +3,7 @@ cd $(mktemp -d)
 git clone https://github.com/bmsleight/delegation-presentation.git source
 git clone --branch gh-pages https://github.com/bmsleight/delegation-presentation.git gh-pages
 hovercraft ./source/delegation.rst ./gh-pages/
+cp ./*.css ./gh-pages/
 cd ./gh-pages/
 mkdir ./videos
 cp ../source/videos/* ./videos/
