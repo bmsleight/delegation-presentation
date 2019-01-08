@@ -213,6 +213,13 @@ Danger
 
 ----
 
+:data-x: -200
+:data-y: 75
+:data-z: 0
+:data-scale: 0.1
+
+----
+
 :data-x: 2400
 :data-y: 2400
 :data-z: r0
