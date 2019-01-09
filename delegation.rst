@@ -7,6 +7,7 @@ Tools used,
 http://wigflip.com/ds/
 https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.reidlitchfield.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fsuperman-1.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Frespectthreads%2Fcomments%2F3ovxvl%2Frespect_superman_complete_postcrisis%2F&docid=yVFTE8LlXyUGgM&tbnid=_4GZinGYWldMxM%3A&w=800&h=600&hl=en-gb&client=browser-ubuntu&bih=805&biw=1600&ved=0ahUKEwjErIvEn_vPAhUIBcAKHbnOB6U4ZBAzCBMoETAR&iact=mrc&uact=8
 https://www.blackpressusa.com/wp-content/uploads/2018/10/Black-Superwoman-1.jpg
+http://blog.zenstudios.com/wp-content/uploads/2012/09/Zen_Pinball_THD_The_Avengers_key_art_300dpi_02.jpg
 
 rm Missile1.mp4 ; ffmpeg -i ./BBC\ Micro\ game\ Missile\ Control-VrVOwaztcTk.webm -ss 51.5 -t 10.1 Missile1.mp4 ; rm crop_missile.mp4 ; ffmpeg -i Missile1.mp4 -filter:v "crop=180:200:145:150" crop_missile.mp4 ; rm scale_Milssile.mp4 ; ffmpeg -i crop_missile.mp4 -vf scale=360:-1 scale_Milssile.mp4
 
@@ -329,11 +330,12 @@ Too difficult
 * Build another Superman
 * Avengers Assemble!
 
-.. image:: images/superman-1s.jpg
+.. image:: images/avengers.jpg
+    :height: 200px
 
 ----
 
-:data-x: r1600
+:data-x: r2400
 :data-y: r-4000
 :data-rotate-y: 0
 :data-rotate-z: 0
@@ -413,13 +415,14 @@ Just Do it
 ----
 
 :data-x: r115
-:data-y: r-280
+:data-y: r-281
 :data-z: r10
 :data-rotate-y: 0
 :data-rotate-z: 0
 :data-scale: 0.01
 
 .. image:: images/Superwoman.jpg
+    :height: 300px
 
 ----
 
@@ -461,7 +464,7 @@ Pass the Parcel
 
 ----
 
-:data-x: r800
+:data-x: r1400
 :data-y: r-2400
 
 Benefits
@@ -469,7 +472,7 @@ Benefits
 
 * Value your team or peers
 * New Super-people
-* Able to keep look at - wider view
+* Able to look at the wider view
 
 .. note::
 
@@ -488,9 +491,9 @@ Benefits
 
 ----
 
-:data-x: 2000
-:data-y: 2000
-:data-scale: 7.5
+:data-x: 2400
+:data-y: 2200
+:data-scale: 8
 :data-rotate-z: 0
 :data-rotate-x: 0
 :data-rotate-y: 0
