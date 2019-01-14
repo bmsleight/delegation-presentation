@@ -4,6 +4,9 @@
 
 
 Tools used,
+
+https://github.com/regebro/hovercraft
+
 http://wigflip.com/ds/
 https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.reidlitchfield.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fsuperman-1.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Frespectthreads%2Fcomments%2F3ovxvl%2Frespect_superman_complete_postcrisis%2F&docid=yVFTE8LlXyUGgM&tbnid=_4GZinGYWldMxM%3A&w=800&h=600&hl=en-gb&client=browser-ubuntu&bih=805&biw=1600&ved=0ahUKEwjErIvEn_vPAhUIBcAKHbnOB6U4ZBAzCBMoETAR&iact=mrc&uact=8
 https://www.blackpressusa.com/wp-content/uploads/2018/10/Black-Superwoman-1.jpg
@@ -33,11 +36,15 @@ It is not for the *Lazy!*
 
 .. note::
 
-    Talk about my previous method of management
+    Talk about my previous method of management  - wrong with that
 
     Why delegation is key
+    
+    Everyone delegates at some point, team, peers to help coach. Every expert. 
 
-    Why delegation is not the lazy option (opposite!)
+    Why proper delegation is not the lazy option (opposite!)
+    
+    Engineer - no manual available
 
 ----
 
@@ -59,6 +66,13 @@ It is not for the *Lazy!*
 
 .. image:: images/speech3.gif
 .. image:: images/speech4.gif
+
+
+.. note::
+
+    Solving how to do it
+
+    
 
 ----
 
@@ -164,6 +178,8 @@ Delegation
 
 .. note::
 
+    Engineer - no manual available
+
     Now we know Why - lets look at the what
     
     Main part of this Masterclass is three areas
@@ -200,7 +216,7 @@ Danger
 
 * No context  
 * Answer you can not live with
-* Not interesting or boring
+* Not boring
 
 .. note::
 
@@ -437,6 +453,10 @@ Pass the Parcel
 * One to One
 * At a meeting
 * Avoid the one line email!
+
+.. note::
+
+    Shoot me, call me out for one line emails.
 
 ----
 
